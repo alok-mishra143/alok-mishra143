@@ -1,6 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=alok-mishra143&icon=4&color=0)](https://visitcount.itsvg.in)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hey+There;I+am+Alok+Mishra+🧑‍💻)](https://git.io/typing-svg)
 # 💫 About Me:
-👋 Hello World! I'm Alok Mishra, a passionate full-stack developer on a journey to explore the realms of technology. <br>My GitHub is not just a repository of code; it's a story of my learning, growth, and love for crafting solutions that make a difference.
+ a passionate full-stack developer on a journey to explore the realms of technology. <br>My GitHub is not just a repository of code; it's a story of my learning, growth, and love for crafting solutions that make a difference.
 
 
 ## 🌐 Socials:
@@ -17,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![](https://raw.githubusercontent.com/alok-mishra143/alok-mishra143/output/snake.svg)
+
 
 
 
