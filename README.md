@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=alok-mishra143&icon=4&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 👋 Hello World! I'm Alok Mishra, a passionate full-stack developer on a journey to explore the realms of technology. <br>My GitHub is not just a repository of code; it's a story of my learning, growth, and love for crafting solutions that make a difference.
 
@@ -15,7 +16,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=alok-mishra143&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
