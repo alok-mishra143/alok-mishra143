@@ -48,6 +48,9 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![snake gif](https://github.com/alok-mishra143/alok-mishra143/blob/output/github-snake-dark.svg)
+
+
 ### 🔗 Check out my [Projects](https://github.com/alok-mishra143?tab=repositories) for more of my work!
 
 ---
