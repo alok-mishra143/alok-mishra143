@@ -6,13 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hey+There;I+am+Alok+Mishra+🧑‍💻)](https://git.io/typing-svg)
 
-# 💫 About Me:
-I am a passionate full-stack developer with a keen interest in creating efficient and visually appealing web applications. My skills span across various technologies, and I enjoy working on projects that challenge me to learn and grow. 
 
-- 🌟 Proficient in **React**, **Next.js**, and **Tailwind CSS**
-- 🛠️ Experienced in **C++**, **JavaScript**, **Python**, **TypeScript**, and more
-- 💾 Backend in both **SQL (MySQL)** and **NoSQL (MongoDB)** databases
-- 🌐 Love contributing to open-source projects and collaborating with the developer community
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-mishra143) 
@@ -45,12 +39,10 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alok-mishra143&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-mishra143&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ![snake gif](https://github.com/alok-mishra143/alok-mishra143/blob/output/github-snake-dark.svg)
 
 
-### 🔗 Check out my [Projects](https://github.com/alok-mishra143?tab=repositories) for more of my work!
 
 ---
