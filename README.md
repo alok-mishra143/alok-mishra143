@@ -2,7 +2,7 @@
 
 
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=alok-mishra143&icon=4&color=0)](https://visitcount.itsvg.in)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hey+There;I+am+Alok+Mishra+🧑‍💻)](https://git.io/typing-svg)
 
