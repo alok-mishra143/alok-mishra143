@@ -8,6 +8,11 @@
 
 ---
 
+### 🔥 Technologies & Tools I'm Learning  
+- 🐳 **Docker** - Containerization and deployment  
+- ☁️ **AWS** - Cloud computing & infrastructure  
+- 🌐 **Web3** - Blockchain & decentralized applications 
+
 ## 🔗 Find Me Here
 
 <p align="start">
