@@ -13,24 +13,7 @@
 - ☁️ **AWS** - Cloud computing & infrastructure  
 - 🌐 **Web3** - Blockchain & decentralized applications 
 
-## 🔗 Find Me Here
 
-<p align="start">
-  <a href="https://x.com/heyalokmishra" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.linkedin.com/in/alok-mishra143/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hey.alokmishra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://heyalok.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFA500?logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
