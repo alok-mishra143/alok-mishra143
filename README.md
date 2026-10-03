@@ -1,16 +1,21 @@
-## Hi there 👋
+# Alok Mishra
 
-<!--
-**alok-mishra143/alok-mishra143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer · AI · Systems · Open Source**
 
-Here are some ideas to get you started:
+I build fast, scalable software and developer tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the stack, from polished interfaces to backend systems, APIs, automation, and low-level programming.
+
+```text
+TypeScript · JavaScript · Go · C++
+Next.js · React · Node.js · PostgreSQL · Redis
+Docker · Cloudflare · AWS · GitHub Actions
+```
+
+
+## Find Me
+
+[Website](https://heyalok.com) · [GitHub](https://github.com/alok-mishra143) ·  · [Instagram](https://instagram.com/heyalokm)
+
+[Peerlist](https://peerlist.io/heyalok) · [Medium](https://medium.com/@zerion0) · [LeetCode](https://leetcode.com/heyalok) · [Linktree](https://linktr.ee/heyalok)
+
